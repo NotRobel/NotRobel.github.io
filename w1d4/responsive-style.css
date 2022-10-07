@@ -70,7 +70,6 @@ body {
     text-decoration: none;
 }
 
-/* Media Queries*/
 @media only screen and (min-width: 600px) {
     .content {
         display: flex;
